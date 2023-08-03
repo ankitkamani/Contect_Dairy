@@ -1,6 +1,6 @@
 {
-    "name": "contact_diary",
-    "short_name": "contact_diary",
+    "name": "contect_dairy_state_managment",
+    "short_name": "contect_dairy_state_managment",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
